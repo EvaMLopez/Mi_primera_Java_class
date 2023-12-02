@@ -1,7 +1,5 @@
 package dev.eva.miprimerajavaclass;
 
-// imports
-
 // Clase Person para crear objetos tipo persona //
 public class Person {
 
