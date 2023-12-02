@@ -17,6 +17,6 @@ En el método main de la clase App se deben crear dos personas y mostrar los val
 
 #### Parte 2:
 Agregar dos nuevos atributos a la clase Persona. 
-Un atributo que represente el país de nacimiento de la persona (de tipo String) y otro que identifique el género de la persona, el cual debe representarse como un char con valores 'H' , 'M', ‘O’.
-Modificar el constructor de la clase Persona para que inicialice estos dos nuevos atributos.
-Modificar el método imprimir de la clase Persona para que muestre en pantalla los valores de los nuevos atributos.
+- Un atributo que represente el país de nacimiento de la persona (de tipo String) y otro que identifique el género de la persona, el cual debe representarse como un char con valores 'H' , 'M', ‘O’.
+- Modificar el constructor de la clase Persona para que inicialice estos dos nuevos atributos.
+- Modificar el método imprimir de la clase Persona para que muestre en pantalla los valores de los nuevos atributos.
